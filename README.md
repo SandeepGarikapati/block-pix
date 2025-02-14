@@ -60,7 +60,12 @@ BlockPix is a decentralized image vault that leverages **Blockchain Technology**
 ## 🚀 Live Demo
 
 - **First Page Of the Website**
+
 ![image-1](images/image-1.png)
+
+- **Connecting To Wallet**
+
+![image-2](images/image-2.png)
 
 ## 🤝 Contributing
 
