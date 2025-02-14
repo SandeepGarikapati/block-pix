@@ -12,11 +12,11 @@ BlockPix is a decentralized image vault that leverages **Blockchain Technology**
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js / Next.js
+- **Frontend:** React.js
 - **Backend:** Node.js, Express
 - **Blockchain:** Ethereum, Solidity, Web3.js
 - **Storage:** IPFS (Pinata Cloud)
-- **Database:** MongoDB / Firebase (for user authentication & metadata)
+- **Database:** MongoDB (for user authentication & metadata)
 
 ## 📌 How It Works
 
@@ -46,11 +46,15 @@ BlockPix is a decentralized image vault that leverages **Blockchain Technology**
      ```
 4. **Start the Development Server**
    ```sh
+   cd client
    npm run dev
+
+   cd server
+   npm start
    ```
 5. **Deploy Smart Contracts** (Ensure you have Hardhat or Truffle installed)
    ```sh
-   npx hardhat run scripts/deploy.js --network goerli
+   npx hardhat run scripts/deploy.js --network sepolia
    ```
 
 ## 🚀 Live Demo
