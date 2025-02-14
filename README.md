@@ -67,6 +67,25 @@ BlockPix is a decentralized image vault that leverages **Blockchain Technology**
 
 ![image-2](images/image-2.png)
 
+- **Page After Connecting to Wallet**
+
+![image-3](images/image-3.png)
+
+- **Images Stored in Pinata Cloud**
+![image-4](images/image-4.png)
+
+- **Uploading the Image to the Pinata Cloud**
+![image-5](images/image-5.png)
+
+- **Transaction Confirmation**
+![image-6](images/image-6.png)
+
+- **Image Stored in Cloud**
+![image-7](images/image-7.png)
+
+- **Encrypted data in Pinata Cloud**
+![image-8](images/image-8.png)
+
 ## 🤝 Contributing
 
 We welcome contributions! Feel free to fork, raise issues, and submit PRs.
