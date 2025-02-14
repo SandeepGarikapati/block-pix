@@ -101,4 +101,4 @@ We welcome contributions! Feel free to fork, raise issues, and submit PRs.
 This project is licensed under the MIT License.
 
 ---
-Made with ❤️ by BlockPix Team
+Made with ❤️ by SandeepGarikapati
